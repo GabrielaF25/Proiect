@@ -1,0 +1,26 @@
+[
+    {
+    "productId":1,
+    "productName":"lalele-1",
+    "productImage":"assets/images/download1.jpg"
+
+},
+{
+    "productId":2,
+    "productName":"garoafe-1",
+    "productImage":"assets/images/download2.jpg"
+
+},
+{
+    "productId":3,
+    "productName":"trandafiri-3",
+    "productImage":"assets/images/download3.jpg"
+
+},
+{
+    "productId":4,
+    "productName":"ghiocei-4",
+    "productImage":"assets/images/download4.jpg"
+
+}
+]
